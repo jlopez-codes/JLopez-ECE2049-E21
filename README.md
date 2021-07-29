@@ -7,4 +7,4 @@ In this class, I learned that embedded computers are everywhere in modern life. 
 I learned how to solve real-world design problems using small, resource constrained (time/memory/power) computing platforms. I learned the hardware and software structure of modern embedded devices and basic interactions between embedded computers and the physical world. In the laboratory, emphasis is placed on interfacing embedded processors with common sensors and devices (e.g. temperature sensors, keypads, LCD display, SPI ports, pulse width modulated motor controller outputs) while developing the skills needed to use embedded processors in systems design.
 
 
-Program: C++/C
+Program Language: C using Visual Studio Code
